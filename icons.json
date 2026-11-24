@@ -4,5 +4,11 @@
   "file": "icone-512.png",
   "url": "https://raw.githubusercontent.com/nps-nelson/Fable-fast-icon/main/icone-512.png",
   "type": "image"
+ },
+ {
+  "name": "og-image",
+  "file": "og-image.png",
+  "url": "https://raw.githubusercontent.com/nps-nelson/Fable-fast-icon/main/og-image.png",
+  "type": "image"
  }
 ]
